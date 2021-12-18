@@ -1,1 +1,1 @@
-"# mercedes-price-scraper" 
+# Mercedes-Benz için tek bir modelin fiyatlarını çeker ⛏️
